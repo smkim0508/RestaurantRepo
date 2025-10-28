@@ -1,0 +1,16 @@
+## Swift iOS Application for Personalized Restaurant Recommendation.
+
+The companion [recommendation engine](https://github.com/smkim0508/Food_Preference_Indexer) is built by training on the [Yelp Business Reviews Dataset](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_business.json), available on Kaggle.
+
+To run, simply start up the Swift application on iOS IDE like Xcode.
+
+Demo Application Shown Below:
+
+- Landing Page
+![landing_page](assets/images/swift_demo_1.png)
+
+- Example Restaurant Search
+![thai_food_search](assets/images/swift_demo_2.png)
+
+- Scrolling Results
+![thai_food_search_2](assets/images/swift_demo_3.png)
