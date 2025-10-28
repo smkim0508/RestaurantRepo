@@ -4,6 +4,8 @@ The companion [recommendation engine](https://github.com/smkim0508/Food_Preferen
 
 To run, simply start up the Swift application on iOS IDE like Xcode.
 
+You can search for restaurant recommendations by entering your Yelp User ID and (optionally) specifying the location or cuisine that you are looking for. The app will fetch your past Yelp review data to recommend you restaurants using an algorithm similar to collaborative filtering, specifically designed for food preferences!
+
 Demo Application Shown Below:
 
 - Landing Page
