@@ -9,10 +9,19 @@ You can search for restaurant recommendations by entering your Yelp User ID and 
 Demo Application Shown Below:
 
 - Landing Page
-![landing_page](assets/images/swift_demo_1.png)
+
+<p align="center">
+    <img src="assets/images/swift_demo_1.png" alt="landing_page" width="250">
+</p>
 
 - Example Restaurant Search
-![thai_food_search](assets/images/swift_demo_2.png)
+
+<p align="center">
+    <img src="assets/images/swift_demo_2.png" alt="thai_food_search" width="250">
+</p>
 
 - Scrolling Results
-![thai_food_search_2](assets/images/swift_demo_3.png)
+
+<p align="center">
+    <img src="assets/images/swift_demo_3.png" alt="thai_food_search_2" width="250">
+</p>
